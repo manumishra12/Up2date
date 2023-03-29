@@ -4,68 +4,24 @@ React JS and MongoDB based Task Manager app.
 ```
 ```
 Up2date is a powerful task manager tool designed to help you stay on top of your daily to-do lists. 
-With intuitive features and a user-friendly interface, you can easily create, organize, and manage your tasks, ensuring that you never miss a deadline or forget an important task. 
+With intuitive features and a user-friendly interface, you can easily create, organize, and manage your tasks, 
+ensuring that you never miss a deadline or forget an important task. 
 ```
-
-
-<p>
-  <b>
-    A Up2date helps individuals or teams manage their work and track their progress towards completing tasks and projects. 
-    Task trackers typically provide a centralized platform where users can create and organize tasks, assign them to team members, set deadlines and priorities, and monitor their status.
-  </b>
-</p>
 
 <br>
 
-<div float="right" width="400">
-  <img align="left" height="550" width="400" src="Thumbnail.jpeg">
-</div>
-
-
-
-
-### Install dependencies
-
 ```
+Install dependencies:
 npm install
-```
 
-### Run React dev server (http://localhost:3000)
+Run React dev server (http://localhost:3000)
+npm start
 
-```
+Run Mongodb server (http://mongodb://127.0.0.1:27017)
 npm start
 ```
 
-### Run the JSON server (http://localhost:5000)
-
-```
-npm run server
-```
-
-### To build for production
-
-```
-npm run build
-```
-<br>
-<hr>
-
-### Other Terminal Commands(Optional)
-
-```
-npm install -g json-server
-npm i -g serve
-npm rum server
-npm i react-router-dom
-
-npm audit fix --force //if error
-```
-
-<hr>
-
-### Contact Details
-```
-Credits : Manu Mishra
-Instagram : _mishramanu_
-```
+<div float="right" width="800" height="700">
+  <img align="left" height="700" width="1000" src="Thumbnail.png">
+</div>
 
