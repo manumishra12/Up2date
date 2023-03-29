@@ -1,16 +1,16 @@
-# Up2date
-Up2date is a powerful task manager tool designed to help you stay on top of your daily to-do lists. With intuitive features and a user-friendly interface, you can easily create, organize, and manage your tasks, ensuring that you never miss a deadline or forget an important task. 
-
-
-# Task-Tracker ⏳
-
+# Up2date 📟
 ```
-React based Task Tracker using React JS and JSON Server as a backend work handling.
+React JS and MongoDB based Task Manager app.
 ```
+```
+Up2date is a powerful task manager tool designed to help you stay on top of your daily to-do lists. 
+With intuitive features and a user-friendly interface, you can easily create, organize, and manage your tasks, ensuring that you never miss a deadline or forget an important task. 
+```
+
 
 <p>
   <b>
-    A task tracker helps individuals or teams manage their work and track their progress towards completing tasks and projects. 
+    A Up2date helps individuals or teams manage their work and track their progress towards completing tasks and projects. 
     Task trackers typically provide a centralized platform where users can create and organize tasks, assign them to team members, set deadlines and priorities, and monitor their status.
   </b>
 </p>
