@@ -1,0 +1,45 @@
+cd api
+npm init
+
+
+package name: (api) mern-todo-api
+version: (1.0.0)
+description:
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author: Manu Mishra
+license: (ISC)
+About to write to C:\Users\user\Desktop\Up-To-Date\api\package.json:
+
+{
+  "name": "mern-todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manu Mishra",
+  "license": "ISC"
+}
+
+npm install express mongoose cors
+
+npm i -D nodemon
+
+
+
+------------------------------
+
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+
+
+change to::
+
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+
